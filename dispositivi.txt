@@ -1,3 +1,3 @@
-Blu = A
+Blu = S
 Verde = A
 Giallo = A
