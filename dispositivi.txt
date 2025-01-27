@@ -1,3 +1,3 @@
-Rosso = A
-Verde = S
+Rosso = S
+Verde = A
 Giallo1 = A
